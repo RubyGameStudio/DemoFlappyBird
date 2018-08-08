@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Game
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1d92f38e0147842ecab8f67fb5a61c86, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 15e800b047b4047168b87d8583a03c2a, type: 3}
+  - {fileID: 21300000, guid: 15d27e11aa521486baeb03ce7981c48e, type: 3}
+  - {fileID: 21300000, guid: 9cfe2ba2af1de4fb48c3be2a919f30cb, type: 3}
+  - {fileID: 21300000, guid: 7974ee03c4c844ae1a48fca2ef19bcc2, type: 3}
+  - {fileID: 21300000, guid: 87edc5246b6174c1fbbe927e2f9bc83b, type: 3}
+  - {fileID: 21300000, guid: 027696e4a2b834f31831dfa5ab0f73a9, type: 3}
+  - {fileID: 21300000, guid: 15ed346746e9c402ea57b571635c4216, type: 3}
+  - {fileID: 21300000, guid: a5b169673f4244d36a7879c429fab371, type: 3}
+  - {fileID: 21300000, guid: f007e687adc684be3a195e892973d655, type: 3}
+  - {fileID: 21300000, guid: 8cca44d80bf7049709f4bb90fd0bac4f, type: 3}
+  - {fileID: 21300000, guid: 3cdc91196712d42d98edf5041826e115, type: 3}
+  - {fileID: 21300000, guid: fb1560594890b4a229e7bab9d920f2e7, type: 3}
+  - {fileID: 21300000, guid: f4a98b2be9db0455c9ff359dc62cc864, type: 3}
+  - {fileID: 21300000, guid: d531b05f2d2bf45c581645b41d055d5f, type: 3}
+  - {fileID: 21300000, guid: 3f14479f9a5cc48999be7a0409505502, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - redbird-upflap
+  - bluebird-upflap
+  - background-day
+  - yellowbird-downflap
+  - redbird-midflap
+  - pipe-red
+  - pipe-green
+  - base
+  - bluebird-downflap
+  - redbird-downflap
+  - background-night
+  - yellowbird-midflap
+  - message
+  - bluebird-midflap
+  - yellowbird-upflap
+  m_Tag: Game
+  m_IsVariant: 0
